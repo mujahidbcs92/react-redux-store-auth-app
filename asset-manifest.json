@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-store-auth-app/static/css/main.daad3343.css",
+    "main.js": "/react-redux-store-auth-app/static/js/main.2bc4a79b.js",
+    "index.html": "/react-redux-store-auth-app/index.html",
+    "main.daad3343.css.map": "/react-redux-store-auth-app/static/css/main.daad3343.css.map",
+    "main.2bc4a79b.js.map": "/react-redux-store-auth-app/static/js/main.2bc4a79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daad3343.css",
+    "static/js/main.2bc4a79b.js"
+  ]
+}
